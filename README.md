@@ -1,4 +1,3 @@
-# to-do-list-JS
-To do list: HTML + CSS + JAVASCRIPT
+# Sobre o projeto
 
-To Do List em JavaScript
+ Se trata de uma Lista de afazeres feita apenas com o intuito de exercitar o conteudo visto nas aulas
